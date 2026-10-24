@@ -1,0 +1,106 @@
+﻿,,,,,,,
+Charge Description,CPT,Fee Type,Gross Charge,Discounted Cash Price,Payer‐Specified ,De‐Identified ,De‐Identified 
+,,,,,Negotiated ,Minimum,Maximum
+,,,,,Charge,,
+Cardiac valve and other major cardiothoracic procedures with cardiac catheterization with major complications or comorbidities,216,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Spinal fusion except cervical without major comorbid conditions or complications (MCC),460,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Major joint replacement or reattachment of lower extremity without major comorbid conditions or complications (MCC),470,Professional,# Anesthesia Minutes /15 ,# Anesthesia Minutes /15 ,# Anesthesia Minutes /15 ,# Anesthesia Minutes /15 ,# Anesthesia Minutes /15 
+,,,Minutes + CMS ,Minutes + CMS ,Minutes + CMS ,Minutes + CMS ,Minutes + CMS 
+,,,Base Unit * 26.04,Base Unit * 26.04,Base Unit * 26.04,Base Unit * 26.04,Base Unit * 26.04
+Cervical spinal fusion without comorbid conditions (CC) or major comorbid conditions or complications (MCC),473,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Uterine and adnexa procedures for non‐malignancy without comorbid conditions (CC) or major comorbid conditions or complications (MCC),743,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+"Removal of one or more breast growth, open procedure",19120,Professional,$439.80 ,$439.80 ,$439.80 ,$439.80 ,$439.80 
+Shaving of shoulder bone using an endoscope,29826,Professional,$861.15 ,$861.15 ,$861.15 ,$861.15 ,$861.15 
+Removal of one knee cartilage using an endoscope,29881,Professional,$768.41 ,$768.41 ,$768.41 ,$768.41 ,$768.41 
+Removal of tonsils and adenoid glands patient younger than age 12,42820,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+"Diagnostic examination of esophagus, stomach, and/or upper small bowel using an endoscope",43235,Technical,$600.00 ,$600.00 ,$600.00 ,$600.00 ,$600.00 
+"Diagnostic examination of esophagus, stomach, and/or upper small bowel using an endoscope",43235,Professional,$173.78 ,$173.78 ,$173.78 ,$173.78 ,$173.78 
+"Biopsy of the esophagus, stomach, and/or upper small bowel using an endoscope",43239,Technical,$600.00 ,$600.00 ,$600.00 ,$600.00 ,$600.00 
+"Biopsy of the esophagus, stomach, and/or upper small bowel using an endoscope",43239,Professional,$204.83 ,$204.83 ,$204.83 ,$204.83 ,$204.83 
+Diagnostic examination of large bowel using an endoscope,45378,Technical,$600.00 ,$600.00 ,$600.00 ,$600.00 ,$600.00 
+Diagnostic examination of large bowel using an endoscope,45378,Professional,$270.48 ,$270.48 ,$270.48 ,$270.48 ,$270.48 
+Biopsy of large bowel using an endoscope,45380,Technical,$600.00 ,$600.00 ,$600.00 ,$600.00 ,$600.00 
+Biopsy of large bowel using an endoscope,45380,Professional,$319.13 ,$319.13 ,$319.13 ,$319.13 ,$319.13 
+Removal of polyps or growths of large bowel using an endoscope,45385,Technical,$600.00 ,$600.00 ,$600.00 ,$600.00 ,$600.00 
+Removal of polyps or growths of large bowel using an endoscope,45385,Professional,$377.26 ,$377.26 ,$377.26 ,$377.26 ,$377.26 
+Ultrasound examination of lower large bowel using an endoscope,45391,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Removal of gallbladder using an endoscope,47562,Professional,$810.91 ,$810.91 ,$810.91 ,$810.91 ,$810.91 
+Repair of groin hernia patient age 5 years or older,49505,Professional,$583.96 ,$583.96 ,$583.96 ,$583.96 ,$583.96 
+Biopsy of prostate gland,55700,Professional,$118.18 ,$118.18 ,$118.18 ,$118.18 ,$118.18 
+Surgical removal of prostate and surrounding lymph nodes using an endoscope,55866,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+"Routine obstetric care for vaginal delivery, including pre and post delivery care",59400,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+"Routine obstetric care for cesarean delivery, including pre and post delivery care",59510,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+"Routine obstetric care for vaginal delivery after prior cesarean delivery, including pre and post delivery care",59610,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Injection of substance into spinal canal of lower back or sacrum using imaging guidance,62322,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Injection of substance into spinal canal of lower back or sacrum using imaging guidance,62323,Professional,$142.05 ,$142.05 ,$142.05 ,$142.05 ,$142.05 
+Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,64483,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Removal of recurring cataract in lens capsule using laser,66821,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Removal of cataract with insertion of lens,66984,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+"CT scan, head or brain, without contrast",70450,Technical,$341.00 ,$341.00 ,$341.00 ,$341.00 ,$341.00 
+"CT scan, head or brain, without contrast",70450,Professional,$60.15 ,$60.15 ,$60.15 ,$60.15 ,$60.15 
+MRI scan of brain before and after contrast,70553,Technical,"$2,640.00 ","$2,640.00 ","$2,640.00 ","$2,640.00 ","$2,640.00 "
+"X‐Ray, lower back, minimum four views",72110,Technical,$143.22 ,$143.22 ,$143.22 ,$143.22 ,$143.22 
+"X‐Ray, lower back, minimum four views",72110,Professional,$25.53 ,$25.53 ,$25.53 ,$25.53 ,$25.53 
+MRI scan of lower spinal canal,72148,Technical,"$2,640.00 ","$2,640.00 ","$2,640.00 ","$2,640.00 ","$2,640.00 "
+"CT scan, pelvis, with contrast",72193,Technical,$493.34 ,$493.34 ,$493.34 ,$493.34 ,$493.34 
+"CT scan, pelvis, with contrast",72193,Professional,$84.40 ,$84.40 ,$84.40 ,$84.40 ,$84.40 
+MRI scan of leg joint,73721,Technical,"$2,640.00 ","$2,640.00 ","$2,640.00 ","$2,640.00 ","$2,640.00 "
+CT scan of abdomen and pelvis with contrast,74177,Technical,$426.65 ,$426.65 ,$426.65 ,$426.65 ,$426.65 
+CT scan of abdomen and pelvis with contrast,74177,Professional,$94.01 ,$94.01 ,$94.01 ,$94.01 ,$94.01 
+Ultrasound of abdomen,76700,Technical,$194.60 ,$194.60 ,$194.60 ,$194.60 ,$194.60 
+Ultrasound of abdomen,76700,Professional,$57.81 ,$57.81 ,$57.81 ,$57.81 ,$57.81 
+Abdominal ultrasound of pregnant uterus (greater or equal to 14 weeks 0 days) single or first fetus,76805,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Ultrasound pelvis through vagina,76830,Technical,$150.99 ,$150.99 ,$150.99 ,$150.99 ,$150.99 
+Ultrasound pelvis through vagina,76830,Professional,$49.94 ,$49.94 ,$49.94 ,$49.94 ,$49.94 
+Mammography of one breast ,77065,Technical,$166.06 ,$166.06 ,$166.06 ,$166.06 ,$166.06 
+Mammography of one breast ,77065,Professional,$50.39 ,$50.39 ,$50.39 ,$50.39 ,$50.39 
+Mammography of both breasts,77066,Technical,$205.06 ,$205.06 ,$205.06 ,$205.06 ,$205.06 
+Mammography of both breasts,77066,Professional,$63.86 ,$63.86 ,$63.86 ,$63.86 ,$63.86 
+"Mammography, screening bilateral",77067,Technical,$205.00 ,$205.00 ,$205.00 ,$205.00 ,$205.00 
+"Mammography, screening bilateral",77067,Professional,$50.93 ,$50.93 ,$50.93 ,$50.93 ,$50.93 
+Basic metabolic panel,80048,Technical,$140.72 ,$140.72 ,$140.72 ,$140.72 ,$140.72 
+"Blood test, comprehensive group of blood chemicals",80053,Technical,$252.00 ,$252.00 ,$252.00 ,$252.00 ,$252.00 
+Obstetric blood panel test,80055,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+"Blood test, lipids (cholesterol and triglycerides)",80061,Technical,$69.52 ,$69.52 ,$69.52 ,$69.52 ,$69.52 
+Kidney function panel test,80069,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Liver function blood test panel,80076,Technical,$130.37 ,$130.37 ,$130.37 ,$130.37 ,$130.37 
+Manual urinalysis test with examination using microscope,81000,Technical,$12.02 ,$12.02 ,$12.02 ,$12.02 ,$12.02 
+Manual urinalysis test with examination using microscope,81001,Technical,$12.02 ,$12.02 ,$12.02 ,$12.02 ,$12.02 
+Automated urinalysis test,81002,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Automated urinalysis test,81003,Technical,$10.15 ,$10.15 ,$10.15 ,$10.15 ,$10.15 
+PSA (prostate specific antigen),84153,Technical,$69.91 ,$69.91 ,$69.91 ,$69.91 ,$69.91 
+PSA (prostate specific antigen),84154,Technical,$69.91 ,$69.91 ,$69.91 ,$69.91 ,$69.91 
+"Blood test, thyroid stimulating hormone (TSH)",84443,Technical,$63.83 ,$63.83 ,$63.83 ,$63.83 ,$63.83 
+"Complete blood cell count, with differential white blood cells, automated",85025,Technical,$78.80 ,$78.80 ,$78.80 ,$78.80 ,$78.80 
+"Complete blood count, automated",85027,Technical,$55.80 ,$55.80 ,$55.80 ,$55.80 ,$55.80 
+"Blood test, clotting time",85610,Technical,$14.93 ,$14.93 ,$14.93 ,$14.93 ,$14.93 
+Coagulation assessment blood test,85730,Technical,$22.83 ,$22.83 ,$22.83 ,$22.83 ,$22.83 
+"Psychotherapy, 30 min",90832,Technical,$60.00 ,$60.00 ,$60.00 ,$60.00 ,$60.00 
+"Psychotherapy, 30 min",90832,Professional,$93.49 ,$93.49 ,$93.49 ,$93.49 ,$93.49 
+"Psychotherapy, 45 min",90834,Technical,$60.00 ,$60.00 ,$60.00 ,$60.00 ,$60.00 
+"Psychotherapy, 45 min",90834,Professional,$137.01 ,$137.01 ,$137.01 ,$137.01 ,$137.01 
+"Psychotherapy, 60 min",90837,Technical,$60.00 ,$60.00 ,$60.00 ,$60.00 ,$60.00 
+"Psychotherapy, 60 min",90837,Professional,$198.11 ,$198.11 ,$198.11 ,$198.11 ,$198.11 
+"Family Psychotherapy, not including patient, 50 min",90846,Technical,$60.00 ,$60.00 ,$60.00 ,$60.00 ,$60.00 
+"Family Psychotherapy, not including patient, 50 min",90846,Professional,$124.09 ,$124.09 ,$124.09 ,$124.09 ,$124.09 
+"Family Psychotherapy, including patient, 50 min",90847,Technical,$60.00 ,$60.00 ,$60.00 ,$60.00 ,$60.00 
+"Family Psychotherapy, including patient, 50 min",90847,Professional,$147.96 ,$147.96 ,$147.96 ,$147.96 ,$147.96 
+Group Psychotherapy,90853,Technical,$60.00 ,$60.00 ,$60.00 ,$60.00 ,$60.00 
+Group Psychotherapy,90853,Professional,$28.03 ,$28.03 ,$28.03 ,$28.03 ,$28.03 
+"Electrocardiogram, routine with interpretation and report",93000,Technical,$75.00 ,$75.00 ,$75.00 ,$75.00 ,$75.00 
+Insertion of catheter into left heart for diagnosis,93452,N/A,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered,Service Not Offered
+Sleep study,95810,Technical,$400.00 ,$400.00 ,$400.00 ,$400.00 ,$400.00 
+Sleep study,95810,Professional,$232.79 ,$232.79 ,$232.79 ,$232.79 ,$232.79 
+"Physical therapy, therapeutic exercise",97110,Technical,$43.53 ,$43.53 ,$43.53 ,$43.53 ,$43.53 
+"New Patient office or other outpatient visit, typically 30 min",99203,Technical,$60.00 ,$60.00 ,$60.00 ,$60.00 ,$60.00 
+"New Patient office or other outpatient visit, typically 30 min",99203,Professional,$94.28 ,$94.28 ,$94.28 ,$94.28 ,$94.28 
+"New Patient office or other outpatient visit, typically 45 min",99204,Technical,$60.00 ,$60.00 ,$60.00 ,$60.00 ,$60.00 
+"New Patient office or other outpatient visit, typically 45 min",99204,Professional,$136.99 ,$136.99 ,$136.99 ,$136.99 ,$136.99 
+"New Patient office or other outpatient visit, typically 60 min",99205,Technical,$60.00 ,$60.00 ,$60.00 ,$60.00 ,$60.00 
+"New Patient office or other outpatient visit, typically 60 min",99205,Professional,$180.15 ,$180.15 ,$180.15 ,$180.15 ,$180.15 
+"Patient office consultation, typically 40 min",99243,Professional,$120.10 ,$120.10 ,$120.10 ,$120.10 ,$120.10 
+"Patient office consultation, typically 60 min",99244,Technical,$60.00 ,$60.00 ,$60.00 ,$60.00 ,$60.00 
+"Patient office consultation, typically 60 min",99244,Professional,$175.09 ,$175.09 ,$175.09 ,$175.09 ,$175.09 
+Initial new patient preventative medicine evaluation (18‐39 years),99385,Professional,$74.00 ,$74.00 ,$74.00 ,$74.00 ,$74.00 
+Initial new patient preventative medicine evaluation (40‐64 years),99386,Professional,$74.00 ,$74.00 ,$74.00 ,$74.00 ,$74.00 
+,,,,,,,
